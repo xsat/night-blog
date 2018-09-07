@@ -1,0 +1,8 @@
+body.blog-body {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+body.blog-body a {
+    color: #0000ff;
+}
